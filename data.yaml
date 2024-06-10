@@ -1,0 +1,32 @@
+names:
+- Albus Dumbledore
+- Bellatrix Lestrange
+- Cedric Diggory
+- Dobby
+- Dolores Umbridge
+- Draco Malfoy
+- Fred-George Weasley
+- Ginny Weasley
+- Harry Potter
+- Hermione Granger
+- Luna Lovegood
+- Minerva McGonagall
+- Neville Longbottom
+- Nymphadora Tonks
+- Remus Lupin
+- Ronald Weasley
+- Rubeus Hagrid
+- Severus Snape
+- Sirius Black
+- Sybill Trelawney
+- Voldemort
+nc: 21
+roboflow:
+  license: CC BY 4.0
+  project: final-project-bounding-box
+  url: https://universe.roboflow.com/finalproject-vla5a/final-project-bounding-box/dataset/1
+  version: 1
+  workspace: finalproject-vla5a
+test: ../test/images
+train: D:/Image Processing Final Project/PROJECT/datasets/Final-Project-Bounding-Box-1/train/images
+val: D:/Image Processing Final Project/PROJECT/datasets/Final-Project-Bounding-Box-1/valid/images
